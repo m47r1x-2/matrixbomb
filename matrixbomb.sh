@@ -156,9 +156,9 @@ do
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
         rm -rf matrixbomb.sh
-        git clone https://github.com/Hackertrackersj/Tbomb
-        cd Tbomb
-        bash TBomb.sh
+        git clone https://github.com/m47r1x-2/matrixbomb.git
+        cd matrixbomb
+        bash matrixbomb.sh
        
         exit
     elif [ $ch -eq 6 ];then
