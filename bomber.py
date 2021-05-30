@@ -218,7 +218,7 @@ def pretty_print(cc, target, success, failed):
     mesgdcrt.GeneralMessage("Failed       : " + str(failed))
     mesgdcrt.WarningMessage(
         "This tool was made for fun and research purposes only")
-    mesgdcrt.SuccessMessage("matrixbomb was created by SpeedX")
+    mesgdcrt.SuccessMessage("matrixbomb was created by MATRIX")
 
 
 def workernode(mode, cc, target, count, delay, max_threads):
@@ -349,7 +349,7 @@ except FileNotFoundError:
 
 
 __VERSION__ = get_version()
-__CONTRIBUTORS__ = ['SpeedX', 't0xic0der', 'scpketer', 'Stefan', 'Nitro Hacker']
+__CONTRIBUTORS__ = ['MATRIX','matrixbomb','M47R1X']
 
 ALL_COLORS = [Fore.GREEN, Fore.RED, Fore.YELLOW, Fore.BLUE,
               Fore.MAGENTA, Fore.CYAN, Fore.WHITE]
