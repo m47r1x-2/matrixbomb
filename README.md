@@ -21,7 +21,7 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 
 - Do not use this to harm others.
 - This script is only for educational purposes or to prank.
-- **None of the developers/contributors are responsible for the misuse of TBomb.**
+- **None of the developers/contributors are responsible for the misuse of matrixbomb.**
 <br>
 
 ## Features:
@@ -36,7 +36,7 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 
 ## Usage:
 
-Run these commands to run TBomb
+Run these commands to run matrixbomb
 
 ### > For Termux:
 
@@ -54,7 +54,7 @@ pkg install python
 git clone https://github.com/m47r1x-2/matrixbomb.git
 cd matrixbomb
 chmod +x matrixbomb.sh
-./TBomb.sh
+./matrixbomb.sh
 ```
 ## youtube channel <a href="https://youtube.com/channel/UCggxTNcjkXesB05q5tn8sFg"> click here</a>
 
@@ -96,7 +96,7 @@ chmod +x matrixbomb.sh
 
 # Missing Tools on MacOS
 
-Toilet cannot be installed yet. But TBomb does still work.
+Toilet cannot be installed yet. But matrixbomb does still work.
 
 # Run matrixbomb:
 
