@@ -56,7 +56,7 @@ cd matrixbomb
 chmod +x matrixbomb.sh
 ./matrixbomb.sh
 ```
-## youtube channel <a href="https://youtube.com/channel/UCggxTNcjkXesB05q5tn8sFg"> click here</a>
+## youtube channel <a href="https://youtube.com/channel/UCUagOLyRyVbreJQR6-Swkvw"> click here</a>
 
 ### > For Linux:
 
